@@ -17,6 +17,8 @@ Filename                                                  |Thumbnail            
 [2024_logo_Complex_Black.svg](2024_logo_Complex_Black.svg)|![2024_logo_Complex_Black_thumbnail.png](2024_logo_Complex_Black_thumbnail.png)|2024 UMS logo, complex
 [2024_logo_Simple_Black.svg](2024_logo_Simple_Black.svg)  |![2024_logo_Simple_Black_thumbnail.png](2024_logo_Simple_Black_thumbnail.png)  |2024 UMS logo, simple
 [2024_logo_Lazy_Black.svg](2024_logo_Lazy_Black.svg)      |![2024_logo_Lazy_Black_thumbnail.png](2024_logo_Lazy_Black_thumbnail.png)      |2024 UMS logo, lazy
+[bjoern.svg](bjoern.svg)                                  |.                                                                              |The name Björn
+[johanna.svg](johanna.svg)                                |.                                                                              |The name Johanna
 [oscu_logo.svg](oscu_logo.svg)                            |![oscu_logo_thumbnail.png](oscu_logo_thumbnail.png)                            |Open Science Community Uppsala logo
 [loerdagskurser_logo.svg](loerdagskurser_logo.svg)        |![loerdagskurser_logo_thumbnail.png](loerdagskurser_logo_thumbnail.png)        |Lördagskurserna
 [UMS_logo_18.svg](UMS_logo_18.svg)                        |![UMS_logo_18_thumbnail.png](UMS_logo_18_thumbnail.png)                        |2014 UMS logo, complex
