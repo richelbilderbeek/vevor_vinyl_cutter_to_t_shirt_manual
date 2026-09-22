@@ -195,7 +195,7 @@ sudo apt install python3.12-venv
 
 ???- question "It gives the error 'The virtual environment was not created successfully'"
 
-    This is the full errr message:
+    This is the full error message:
 
     ```text
     ums@rikthyvel:~$ python3 -m venv ~/inkcut_venv
